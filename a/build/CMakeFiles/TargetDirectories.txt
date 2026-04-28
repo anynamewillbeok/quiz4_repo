@@ -1,7 +1,0 @@
-/home/student/git/pfms-2026a-anynamewillbeok/quizzes/quiz4/a/build/CMakeFiles/laserprocessing.dir
-/home/student/git/pfms-2026a-anynamewillbeok/quizzes/quiz4/a/build/CMakeFiles/controllers.dir
-/home/student/git/pfms-2026a-anynamewillbeok/quizzes/quiz4/a/build/CMakeFiles/edit_cache.dir
-/home/student/git/pfms-2026a-anynamewillbeok/quizzes/quiz4/a/build/CMakeFiles/rebuild_cache.dir
-/home/student/git/pfms-2026a-anynamewillbeok/quizzes/quiz4/a/build/test/CMakeFiles/utest.dir
-/home/student/git/pfms-2026a-anynamewillbeok/quizzes/quiz4/a/build/test/CMakeFiles/edit_cache.dir
-/home/student/git/pfms-2026a-anynamewillbeok/quizzes/quiz4/a/build/test/CMakeFiles/rebuild_cache.dir
