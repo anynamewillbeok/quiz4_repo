@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcontrollers.a CMakeFiles/controllers.dir/controller.cpp.o CMakeFiles/controllers.dir/skidsteer.cpp.o
+/usr/bin/ranlib libcontrollers.a

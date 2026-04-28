@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblaserprocessing.a CMakeFiles/laserprocessing.dir/laserprocessing.cpp.o
+/usr/bin/ranlib liblaserprocessing.a
